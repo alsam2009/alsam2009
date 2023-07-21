@@ -50,7 +50,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
 </div>
 
-<div align="left">
+<div align="center">
     <h3>☝️ Don't forget look at my <a href="https://my-3d-cv.vercel.app/" target="_blank">portfolio!</a> </h3>
     <h3>🤝 Don't hesitate to contact me!</h3>
 </div>
