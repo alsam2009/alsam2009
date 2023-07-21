@@ -1,6 +1,6 @@
 <div id="header" align="center" >
-	<h1>Hi 👋, I'm DEN</h1>
-	<h2>Full Stack Developer</h2>
+	<h1>Hi 👋, I'm DEN <br><br>Full Stack Developer</h1>
+</div>
 
 
 <div id="socials" align="center">
@@ -10,7 +10,7 @@
     <a href="mailto:den.fstack@ya.ru">
 		<img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram"/>
 	</a>
-</div>
+</div><br>
 
 
 <div align="center">
@@ -48,11 +48,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
-</div>
+</div><br><br>
 
 <div align="center">
-    <h3>☝️ Don't forget look at my <a href="https://my-3d-cv.vercel.app/" target="_blank">portfolio!</a> </h3>
+    <h3>☝️ Don't forget look at my <a href="https://my-3d-cv.vercel.app/" target="_blank" rel="noopener">portfolio!</a> </h3>
     <h3>🤝 Don't hesitate to contact me!</h3>
 </div>
 
-</div>
+
