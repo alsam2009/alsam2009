@@ -4,9 +4,9 @@
 
 
 <div id="socials" align="center">
-	<a href="https://t.me/nik1839">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-	</a>
+    <a href="https://t.me/nik1839">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
     <a href="mailto:den.fstack@ya.ru">
 		<img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Telegram"/>
 	</a>
