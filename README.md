@@ -1,6 +1,6 @@
 <div id="header" align="center" >
 	<h1>Hi 👋, I'm Den</h1>
-	<h3>Full Stack Developer</h3>
+	<h2>Full Stack Developer</h2>
 </div>
 
 <div id="socials" align="center">
