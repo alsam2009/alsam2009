@@ -52,7 +52,7 @@
 
 <div align="center">
     <h3>☝️ Don't forget look at my <a href="https://my-3d-cv.vercel.app/" target="_blank" rel="noopener">portfolio!</a> </h3>
-    <h3>🤝 Don't hesitate to contact me!</h3>
+    <h3>🤝 Don't hesitate to  <a href="https://my-3d-cv.vercel.app/#contact:~:text=%23css-,GET%20IN%20TOUCH,-Contact." target="_blank" rel="noopener">contact me!</a></h3>
 </div>
 
 
