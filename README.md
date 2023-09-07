@@ -50,6 +50,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" />
 </div><br><br>
 
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=alsam2009&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Latand" align = "center"/>
+</p>
+
 <div align="center">
     <h3>☝️ Don't forget look at my <a href="https://my-3d-cv.vercel.app/" target="_blank" rel="noopener">portfolio!</a> </h3>
     <h3>🤝 Don't hesitate to  <a href="https://my-3d-cv.vercel.app/#contact:~:text=%23css-,GET%20IN%20TOUCH,-Contact." target="_blank" rel="noopener">contact me!</a></h3>
